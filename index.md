@@ -21,5 +21,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was setting up and hooking the LED Neopixel with the Arduino. At first, the lights did turn on as one of the wires of the neopixel did not fit the female end of the wire connecting to the Arduino. Instead of continuously jamming the wire in, I decided to test the gadget without the wire plugged in, and it worked. The neopixel turned on and was glowing with the color green. Now that the lights work, I looked up a tutorial to test the other colors and found that some colors made the lights flicker.
 
-[![First Milestone](
-)](https://youtu.be/CnCB3jOBVtQ "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://cdn.discordapp.com/attachments/986271309619146752/988828155131334716/unknown.png)](https://youtu.be/CnCB3jOBVtQ "First Milestone"){:target="_blank" rel="noopener"}
