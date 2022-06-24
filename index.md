@@ -14,6 +14,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 # Second Milestone
 My second milestone is creating the LED game itself. I used connected a button to the arduino and LED strip, so the game can funciton. Before I connected the wires, I had to get a program to work, in which I took sample code from the internet. After everything connected, the game worked flawlessly. However, the LED strip laying on the table is not visually appeasing, so I would need to install a frame for the strip in the future.
+
 [![Third Milestone](https://cdn.discordapp.com/attachments/853072431223406606/989533579258253353/unknown.png)](https://youtu.be/u6SQv3XonTA "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
