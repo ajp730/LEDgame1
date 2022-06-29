@@ -10,7 +10,7 @@ This will serve as a brief description of your project. Limit this to three sent
 # Final Milestone
 My final milestone is the buzzer in which it emits a unique sound when the player wins or loses. The buzzer had a little plus sign imprinted on top, but it was very difficult to spot. Through trial and error, the buzzer finally worked and I just needed to code the buzzer into the game. After I integrated the buzzer, I had completed my LED game with a buzzer modification.  
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://cdn.discordapp.com/attachments/853072431223406606/991748599857811536/unknown.png )](https://youtu.be/lJV1j20sELU "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 My second milestone is creating the LED game itself. I used connected a button to the arduino and LED strip, so the game can funciton. Before I connected the wires, I had to get a program to work, in which I took sample code from the internet. After everything connected, the game worked flawlessly. However, the LED strip laying on the table is not visually appeasing, so I would need to install a frame for the strip in the future.
