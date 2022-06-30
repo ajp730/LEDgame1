@@ -1,5 +1,5 @@
 ﻿# LED Neopixel game
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+The LED Neopixel game is a game built on an LED light. The goal of the game is to time the click of a button to a red light passing over a green light. This situation keeps on looping and getting faster until the player finally fails.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
